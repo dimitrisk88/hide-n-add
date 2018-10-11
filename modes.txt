@@ -1,0 +1,9 @@
+CLASSIC
+reach a certain sum in certain moves. more moves equals less score.
+the number must be summed in a unique way in no less than the required moves, specified by difficulty.
+
+MAX
+sum the maximum possible number in a number of moves. score is minus the difference.
+
+TIME
+sum all the numbers in given time. score is minus lesser tiles.
